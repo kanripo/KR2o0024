@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定古今儲貳金鑑
-#+DATE: 2019-03-29 20:59:33.992949
+#+DATE: 2019-03-29 20:59:34.062595
 #+PROPERTY: ID KR2o0024
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR2o0024_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -127,7 +127,7 @@
 時東宫官屬若于志寧孔頴達令狐徳棻張元素趙𢎞¶
 ¶
 <pb:KR2o0024_WYG_004-7a>¶
-　　智等皆天下選承乾寖𧇊禮法數有規爭太宗必厚賜¶
+　　智等皆天下選承乾寖虧禮法數有規爭太宗必厚賜¶
 金帛以厲其心然承乾卒不悛寵昵宦官治宫室妨農¶
 功役使僕御不許畨休私引突厥入宫嘗怒志寕言切¶
 直遣張師政紇干承基往刺之時志寜方居母䘮寢處¶
